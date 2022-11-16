@@ -4,6 +4,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/echoar-android.aar/45f52216b72676b4722db125710b53d0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/echoar-android.aar/45f52216b72676b4722db125710b53d0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/echoar-android.aar/45f52216b72676b4722db125710b53d0/jars/libs/echoAR-java-data.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.gradle/7.2/caches/transforms-3/8646faff1224b49f54ea4eecb24faf58/transformed/echoar-android/jars/libs/echoAR-java-data.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/7.2/caches/transforms-3/8646faff1224b49f54ea4eecb24faf58/transformed/echoar-android/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/.gradle/7.2/caches/transforms-3/8646faff1224b49f54ea4eecb24faf58/transformed/echoar-android/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/.gradle/7.2/caches/transforms-3/8646faff1224b49f54ea4eecb24faf58/transformed/echoar-android/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
